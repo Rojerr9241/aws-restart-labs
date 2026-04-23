@@ -10,8 +10,8 @@ The labs and notes are organized by the following technical modules:
 
 1.  **Cloud Foundations** - Core cloud concepts and global infrastructure.
 2.  **[Linux](./02-linux/)** - Command line, file systems, and administration.
-3.  **Networking** - IP addressing, VPCs, and routing.
-4.  **Security** - IAM, encryption, and compliance.
+3.  **[Networking](./03-networking/)** - IP addressing, VPCs, and routing.
+4.  **[Security](./04-security/)** - IAM, encryption, and compliance.
 5.  **Python Programming** - Scripting fundamentals and automation logic.
 6.  **Databases** - SQL fundamentals and relational database design.
 7.  **AWS Architecture** - Designing resilient and high-availability solutions.
