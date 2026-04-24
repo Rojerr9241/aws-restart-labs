@@ -12,19 +12,19 @@ The labs and notes are organized by the following technical modules:
 2.  **[Linux](./02-linux/)** - Command line, file systems, and administration.
 3.  **[Networking](./03-networking/)** - IP addressing, VPCs, and routing.
 4.  **[Security](./04-security/)** - IAM, encryption, and compliance.
-5.  **Python Programming** - Scripting fundamentals and automation logic.
-6.  **Databases** - SQL fundamentals and relational database design.
+5.  **[Python Programming](./05-python-programming/)** - Scripting fundamentals and automation logic.
+6.  **[Databases](./06-databases/)** - SQL fundamentals and relational database design.
 7.  **AWS Architecture** - Designing resilient and high-availability solutions.
-8.  **Systems Operations** - Managing and maintaining cloud workloads.
+8.  **[Systems Operations](./08-systems-operations/)** - Managing and maintaining cloud workloads.
 9.  **Automation Tools** - Introduction to deployment automation.
-10. **Servers** - EC2 management and advanced compute concepts.
-11. **Scaling and Name Resolution** - DNS (Route 53) and Elastic Load Balancing.
+10. **[Servers](./10-servers/)** - EC2 management and advanced compute concepts.
+11. **[Scaling and Name Resolution](./11-scaling-and-name-resolution/)** - DNS (Route 53) and Elastic Load Balancing.
 12. **Serverless and Containers** - Lambda, Docker, and ECS/EKS.
 13. **AWS Database Services** - Deep dive into RDS, DynamoDB, and Aurora.
 14. **AWS Networking Services** - Advanced networking (Direct Connect, Transit Gateway).
-15. **Storage and Archiving** - S3, EBS, EFS, and Glacier management.
+15. **[Storage and Archiving](./15-storage-and-archiving/)** - S3, EBS, EFS, and Glacier management.
 16. **Monitoring and Security** - CloudWatch, CloudTrail, and AWS Config.
-17. **Resource Consumption Management** - Cost optimization and Billing.
+17. **[Resource Consumption Management](./17-resource-consumption-managment/)** - Cost optimization and Billing.
 18. **Automated and Repeatable Deployment** - CloudFormation and CI/CD concepts.
 
 ## 🛠️ Skills Demonstrated
