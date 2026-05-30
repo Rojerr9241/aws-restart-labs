@@ -14,18 +14,18 @@ The labs and notes are organized by the following technical modules:
 4.  **[Security](./04-security/)** - IAM, encryption, and compliance.
 5.  **[Python Programming](./05-python-programming/)** - Scripting fundamentals and automation logic.
 6.  **[Databases](./06-databases/)** - SQL fundamentals and relational database design.
-7.  **AWS Architecture** - Designing resilient and high-availability solutions.
+7.  **[AWS Architecture](./07-aws-architecture/)** - Designing resilient and high-availability solutions.
 8.  **[Systems Operations](./08-systems-operations/)** - Managing and maintaining cloud workloads.
-9.  **Automation Tools** - Introduction to deployment automation.
+9.  **[Automation Tools](./09-automation-tools/)** - Introduction to deployment automation.
 10. **[Servers](./10-servers/)** - EC2 management and advanced compute concepts.
 11. **[Scaling and Name Resolution](./11-scaling-and-name-resolution/)** - DNS (Route 53) and Elastic Load Balancing.
-12. **Serverless and Containers** - Lambda, Docker, and ECS/EKS.
-13. **AWS Database Services** - Deep dive into RDS, DynamoDB, and Aurora.
+12. **[Serverless and Containers](./12-serverless-and-containers/)** - Lambda, Docker, and ECS/EKS.
+13. **[AWS Database Services](./13-aws-database-services/)** - Deep dive into RDS, DynamoDB, and Aurora.
 14. **AWS Networking Services** - Advanced networking (Direct Connect, Transit Gateway).
 15. **[Storage and Archiving](./15-storage-and-archiving/)** - S3, EBS, EFS, and Glacier management.
-16. **Monitoring and Security** - CloudWatch, CloudTrail, and AWS Config.
+16. **[Monitoring and Security](./16-monitoring-and-security/)** - CloudWatch, CloudTrail, and AWS Config.
 17. **[Resource Consumption Management](./17-resource-consumption-managment/)** - Cost optimization and Billing.
-18. **Automated and Repeatable Deployment** - CloudFormation and CI/CD concepts.
+18. **[Automated and Repeatable Deployment](./18-automated-and-repeatable-deployment/)** - CloudFormation and CI/CD concepts.
 
 ## 🛠️ Skills Demonstrated
 Through these labs, I have gained hands-on experience in:
